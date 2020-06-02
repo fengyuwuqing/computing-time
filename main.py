@@ -1,7 +1,7 @@
 # coding=utf-8
 """
 @author:'guojie'
-@Email:jie.guo@msxf.com
+@Email:guojie_app@163.com
 @createtime:2020/06/02
 """
 import datetime
